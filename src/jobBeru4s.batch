@@ -1,0 +1,10 @@
+#!/bin/bash
+
+#SBATCH --job-name=DeepAM
+#SBATCH --nodes=1
+#SBATCH --partition=gpu_prod_long
+#SBATCH --time=40:00:00
+#SBATCH --output=../logslurms/slurm-%j.out
+#SBATCH --error=../logslurms/slurm-%j.err
+
+python3 main.py train --model=resnet50 --pretrained=False

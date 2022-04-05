@@ -1,0 +1,7 @@
+generator\_csv module
+=====================
+
+.. automodule:: generator_csv
+   :members:
+   :undoc-members:
+   :show-inheritance:

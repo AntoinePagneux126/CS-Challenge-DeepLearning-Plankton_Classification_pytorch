@@ -1,0 +1,15 @@
+src
+===
+
+.. toctree::
+   :maxdepth: 4
+
+   classifier
+   configuration
+   correction
+   generator_csv
+   imgloader
+   mailsender
+   main
+   models
+   utils

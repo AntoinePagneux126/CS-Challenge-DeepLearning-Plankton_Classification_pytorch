@@ -1,0 +1,7 @@
+mailsender module
+=================
+
+.. automodule:: mailsender
+   :members:
+   :undoc-members:
+   :show-inheritance:

@@ -1,0 +1,29 @@
+code package
+============
+
+Submodules
+----------
+
+code.img\_loader module
+-----------------------
+
+.. automodule:: code.img_loader
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+code.utils module
+-----------------
+
+.. automodule:: code.utils
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: code
+   :members:
+   :undoc-members:
+   :show-inheritance:

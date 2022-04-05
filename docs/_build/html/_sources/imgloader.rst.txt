@@ -1,0 +1,7 @@
+imgloader module
+================
+
+.. automodule:: imgloader
+   :members:
+   :undoc-members:
+   :show-inheritance:
